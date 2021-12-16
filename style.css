@@ -1,0 +1,66 @@
+/* Main body styling */
+body{
+  margin: 0;
+  background-color: cornflowerblue ;
+}
+
+header > div> h1{
+  font-family: 'Lucida Sans', Geneva, Verdana;
+  text-align: center;
+  color: blanchedalmond;
+  font-size: 50px;
+}
+
+/* Styling for the image contained within the page */
+
+#imageContainer {
+  text-align: center;
+  opacity: 0.75;
+}
+
+h2, h3{
+  font-family: 'Lucida Sans', Geneva, Verdana;
+  color: antiquewhite;
+  font-size: 32px;
+  padding-left: 10%;
+}
+
+/*Styling for the paragraphs contained in the main body of the page */
+
+main> div> article> section> p{
+  font-family: 'Lucida Sans', Geneva, Verdana;
+  font-size: 18px;
+  color: beige;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+ul, ol{
+  font-family: 'Lucida Sans', Geneva, Verdana;
+  font-size: 18px;
+  color: beige;
+}
+
+hr{
+  width: 50%
+}
+
+a:link {
+  color: blue
+}
+
+a:visited {
+  color: purple
+}
+
+footer{
+  text-align: center;
+}
+
+/*Styling for the text contained within the footer */
+
+footer> div> p{
+  font-family: 'Lucida Sans', Geneva, Verdana;
+  font-size: 12px;
+  color: beige;
+}
