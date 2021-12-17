@@ -8,7 +8,8 @@ header > div> h1{
   font-family: 'Lucida Sans', Geneva, Verdana;
   text-align: center;
   color: blanchedalmond;
-  font-size: 50px;
+  font-size: 60px;
+  font-weight: bold;
 }
 
 /* Styling for the image contained within the page */
@@ -21,15 +22,17 @@ header > div> h1{
 h2, h3{
   font-family: 'Lucida Sans', Geneva, Verdana;
   color: antiquewhite;
-  font-size: 32px;
+  font-size: 36px;
   padding-left: 10%;
+  font-weight: bold
 }
 
 /*Styling for the paragraphs contained in the main body of the page */
 
 main> div> article> section> p{
   font-family: 'Lucida Sans', Geneva, Verdana;
-  font-size: 18px;
+  font-size: 22px;
+  font-weight: bold;
   color: beige;
   padding-left: 2%;
   padding-right: 2%;
@@ -37,8 +40,9 @@ main> div> article> section> p{
 
 ul, ol{
   font-family: 'Lucida Sans', Geneva, Verdana;
-  font-size: 18px;
+  font-size: 22px;
   color: beige;
+  font-weight: bold;
 }
 
 hr{
@@ -64,4 +68,5 @@ footer> div> p{
   font-family: 'Lucida Sans', Geneva, Verdana;
   font-size: 12px;
   color: beige;
+  font-weight: bold
 }
