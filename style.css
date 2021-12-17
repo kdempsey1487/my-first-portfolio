@@ -42,7 +42,8 @@ ul, ol{
 }
 
 hr{
-  width: 50%
+  width: 50%;
+  height: 75%;
 }
 
 a:link {
